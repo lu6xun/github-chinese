@@ -1,5 +1,5 @@
 # [GitHub 中文化插件][project-url]
-
+>翻译
 > 本项目源自: [52cik/github-hans](https://github.com/52cik/github-hans)
 
   [![GitHub issues][issues-image]][issues-url]
